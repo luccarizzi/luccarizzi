@@ -10,7 +10,7 @@ I am currently working on a Full Stack project that allows music fans to search 
 
 ## Skills
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+
 
 ## Applications
 
