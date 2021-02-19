@@ -44,7 +44,7 @@ I'd love to hear from you. I am on:
 
 <a href="https://www.linkedin.com/in/luccarizzi/"><img alt="LinkedIn" title="LinkedIn" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> linkedin.com/in/luccarizzi</a>
 
-<a href="mailto:luccarizzi29@gmail.com"><img alt="Gmail" title="Gmail" height="16" width="16" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1613697233~hmac=bbb277b5d8062c8be4601e871408d4de"> luccarizzi29@gmail.com</a>
+<a href="mailto:luccarizzi29@gmail.com"><img alt="Gmail" title="Gmail" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg"> luccarizzi29@gmail.com</a>
 
 # Stats
 
