@@ -30,8 +30,19 @@ I am currently working on a Full Stack project that allows music fans to search 
 
 ## Contact
 
-You can find me here:
-<a href="https://github.com/luccarizzi"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a> <a href="https://linkedin.com/in/luccarizzi"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+You can reach me at:
+<p>
+  <img alt="GitHub" title="GitHub" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+  <a href="https://github.com/luccarizzi" target="_blank">https://github.com/luccarizzi</a>
+</p>
+<p>
+  <img alt="LinkedIn" title="LinkedIn" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  <a href="https://www.linkedin.com/in/luccarizzi/">https://www.linkedin.com/in/luccarizzi/</a>
+</p>
+<p>
+  <img alt="Gmail" title="Gmail" height="16" width="16" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1613697233~hmac=bbb277b5d8062c8be4601e871408d4de">
+  <a href="mailto:luccarizzi29@gmail.com">luccarizzi29@gmail.com</a>
+</p>
 
 
 
