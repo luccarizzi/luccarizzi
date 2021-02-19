@@ -33,11 +33,11 @@ I am currently working on a Full Stack project that allows music fans to search 
 You can reach me at:
 <p>
   <img alt="GitHub" title="GitHub" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
-  <a href="https://github.com/luccarizzi" target="_blank">https://github.com/luccarizzi</a>
+  <a href="https://github.com/luccarizzi">github.com/luccarizzi</a>
 </p>
 <p>
   <img alt="LinkedIn" title="LinkedIn" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
-  <a href="https://www.linkedin.com/in/luccarizzi/">https://www.linkedin.com/in/luccarizzi/</a>
+  <a href="https://www.linkedin.com/in/luccarizzi/">linkedin.com/in/luccarizzi/</a>
 </p>
 <p>
   <img alt="Gmail" title="Gmail" height="16" width="16" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1613697233~hmac=bbb277b5d8062c8be4601e871408d4de">
