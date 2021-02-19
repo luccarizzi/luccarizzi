@@ -28,23 +28,33 @@ I am currently working on a Full Stack project that allows music fans to search 
 
 ## Applications
 
+### Dat-Band
+
+Dat-Band is a full stack web application for music fans to find information related to bands, albums and musicians.
+
+<!-- <a href="">Live Demo</a> | <a href="">Code Source</a> -->
+
+### Turtl
+
+Turtle is a dynamic HTML, CSS, and JavaScript project that allows you to search for a stock using its symbol (or ticker), see details about the stocks dividend information and save your favorite stocks.
+
+<a href="https://luccarizzi.github.io/turtl/">Live Demo</a> | <a href="https://github.com/luccarizzi/turtl">Code Source</a>
+
 ## Contact
 
 You can reach me at:
 <p>
-  <img alt="GitHub" title="GitHub" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
-  <a href="https://github.com/luccarizzi">github.com/luccarizzi</a>
+  <a href="https://github.com/luccarizzi"><img alt="GitHub" title="GitHub" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">github.com/luccarizzi</a>
 </p>
 <p>
   <img alt="LinkedIn" title="LinkedIn" height="16" width="16" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
-  <a href="https://www.linkedin.com/in/luccarizzi/">linkedin.com/in/luccarizzi/</a>
+  <a href="https://www.linkedin.com/in/luccarizzi/">linkedin.com/in/luccarizzi</a>
 </p>
 <p>
   <img alt="Gmail" title="Gmail" height="16" width="16" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1613697233~hmac=bbb277b5d8062c8be4601e871408d4de">
   <a href="mailto:luccarizzi29@gmail.com">luccarizzi29@gmail.com</a>
 </p>
 
+## Stats
 
-
-
-[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccarizzi&hide=stars&show_icons=true)](https://github.com/luccarizzi/github-readme-stats)
+[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccarizzi&hide=stars&show_icons=true&hide_border=true&hide_title=true)](https://github.com/luccarizzi/github-readme-stats)
