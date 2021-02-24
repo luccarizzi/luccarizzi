@@ -28,13 +28,13 @@ I am currently working on a Full Stack project that allows music fans to search 
 
 Dat-Band is a full stack web application for music fans to find information related to bands, albums and musicians.
 
-<!-- <a href="">Live Demo</a> | <a href="">Code Source</a> -->
+<a href="https://dat-band.herokuapp.com/">Live</a> | <a href="https://github.com/luccarizzi/dat-band">Code Source</a>
 
 ### Turtl
 
 Turtle is a dynamic HTML, CSS, and JavaScript project that allows you to search for a stock using its symbol (or ticker), see details about the stocks dividend information and save your favorite stocks.
 
-<a href="https://luccarizzi.github.io/turtl/">Live Demo</a> | <a href="https://github.com/luccarizzi/turtl">Code Source</a>
+<a href="https://luccarizzi.github.io/turtl/">Live</a> | <a href="https://github.com/luccarizzi/turtl">Code Source</a>
 
 # Contact
 
